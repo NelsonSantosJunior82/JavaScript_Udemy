@@ -1,3 +1,4 @@
+//Instancia de função
 function criarCachoroo(raca, patas, cor){
     let cachorro = Object.create({});
     cachorro.raca = raca;
